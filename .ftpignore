@@ -1,0 +1,7 @@
+.git*
+*.png
+ftp_upload.ps1
+.vscode/
+seed_reviews.php
+test_verify.php
+update_hash.php
