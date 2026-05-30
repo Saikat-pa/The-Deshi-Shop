@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600' viewBox='0 0 600 600'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#dc2626'/><stop offset='1' stop-color='#f87171'/></linearGradient></defs>
+<rect width='600' height='600' rx='42' fill='url(#g)'/>
+<circle cx='492' cy='92' r='96' fill='white' opacity='.12'/><circle cx='88' cy='508' r='120' fill='white' opacity='.1'/>
+<path d='M162 238c14-48 42-72 88-60h100c46-12 74 12 88 60l24 84c10 36-24 66-56 42l-44-34H238l-44 34c-32 24-66-6-56-42z' fill='white' opacity='.96'/><circle cx='238' cy='268' r='20' fill='#dc2626'/><rect x='218' y='264' width='40' height='8' rx='4' fill='#fff1f2'/><rect x='234' y='248' width='8' height='40' rx='4' fill='#fff1f2'/><circle cx='366' cy='254' r='10' fill='#f87171'/><circle cx='394' cy='282' r='10' fill='#f87171'/>
+<text x='300' y='72' text-anchor='middle' font-size='18' font-weight='700' letter-spacing='3' fill='white' opacity='.82' font-family='Segoe UI, Arial, sans-serif'>GAMING</text>
+<text x='300' y='468' text-anchor='middle' font-size='32' font-weight='800' fill='white' font-family='Segoe UI, Arial, sans-serif'>HyperX Cloud III</text>
+</svg>

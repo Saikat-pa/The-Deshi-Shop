@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600' viewBox='0 0 600 600'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#7c3aed'/><stop offset='1' stop-color='#a78bfa'/></linearGradient></defs>
+<rect width='600' height='600' rx='42' fill='url(#g)'/>
+<circle cx='492' cy='92' r='96' fill='white' opacity='.12'/><circle cx='88' cy='508' r='120' fill='white' opacity='.1'/>
+<path d='M174 280v-46c0-70 56-126 126-126s126 56 126 126v46' fill='none' stroke='white' stroke-width='34' stroke-linecap='round'/><rect x='126' y='248' width='82' height='112' rx='30' fill='#f3e8ff'/><rect x='392' y='248' width='82' height='112' rx='30' fill='#f3e8ff'/><circle cx='300' cy='286' r='58' fill='white' opacity='.16'/>
+<text x='300' y='72' text-anchor='middle' font-size='18' font-weight='700' letter-spacing='3' fill='white' opacity='.82' font-family='Segoe UI, Arial, sans-serif'>AUDIO</text>
+<text x='300' y='468' text-anchor='middle' font-size='32' font-weight='800' fill='white' font-family='Segoe UI, Arial, sans-serif'>AirPods Pro 2nd Gen</text>
+</svg>

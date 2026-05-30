@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600' viewBox='0 0 600 600'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#ea580c'/><stop offset='1' stop-color='#fb923c'/></linearGradient></defs>
+<rect width='600' height='600' rx='42' fill='url(#g)'/>
+<circle cx='492' cy='92' r='96' fill='white' opacity='.12'/><circle cx='88' cy='508' r='120' fill='white' opacity='.1'/>
+<rect x='164' y='146' width='272' height='222' rx='30' fill='white' opacity='.96'/><path d='M164 212h272' stroke='#fb923c' stroke-width='18'/><circle cx='300' cy='286' r='54' fill='#fff7ed'/>
+<text x='300' y='72' text-anchor='middle' font-size='18' font-weight='700' letter-spacing='3' fill='white' opacity='.82' font-family='Segoe UI, Arial, sans-serif'>ACCESSORIES</text>
+<text x='300' y='468' text-anchor='middle' font-size='32' font-weight='800' fill='white' font-family='Segoe UI, Arial, sans-serif'>Quantum Wireless Mouse</text>
+</svg>

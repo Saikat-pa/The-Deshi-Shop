@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600' viewBox='0 0 600 600'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#1f2937'/><stop offset='1' stop-color='#64748b'/></linearGradient></defs>
+<rect width='600' height='600' rx='42' fill='url(#g)'/>
+<circle cx='492' cy='92' r='96' fill='white' opacity='.12'/><circle cx='88' cy='508' r='120' fill='white' opacity='.1'/>
+<rect x='134' y='148' width='332' height='202' rx='18' fill='white' opacity='.96'/><rect x='154' y='168' width='292' height='154' rx='10' fill='#eef2ff'/><path d='M102 360h396l-32 42H134z' fill='#64748b'/><rect x='246' y='374' width='108' height='8' rx='4' fill='white' opacity='.55'/>
+<text x='300' y='72' text-anchor='middle' font-size='18' font-weight='700' letter-spacing='3' fill='white' opacity='.82' font-family='Segoe UI, Arial, sans-serif'>LAPTOPS</text>
+<text x='300' y='468' text-anchor='middle' font-size='32' font-weight='800' fill='white' font-family='Segoe UI, Arial, sans-serif'>ASUS ROG Strix G16</text>
+</svg>
